@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses on Peng Chen</title>
-    <link>https://academia-hugo.netlify.com/courses/</link>
+    <link>https://peng-chen-ai.github.io/site-main/courses/</link>
     <description>Recent content in Courses on Peng Chen</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="https://academia-hugo.netlify.com/courses/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://peng-chen-ai.github.io/site-main/courses/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Overview 2</title>
-      <link>https://academia-hugo.netlify.com/courses/example.1/</link>
+      <link>https://peng-chen-ai.github.io/site-main/courses/example.1/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/courses/example.1/</guid>
+      <guid>https://peng-chen-ai.github.io/site-main/courses/example.1/</guid>
       <description>
 
 &lt;h2 id=&#34;flexibility&#34;&gt;Flexibility&lt;/h2&gt;
@@ -62,10 +62,10 @@
     
     <item>
       <title>Overview 3</title>
-      <link>https://academia-hugo.netlify.com/courses/example.2/</link>
+      <link>https://peng-chen-ai.github.io/site-main/courses/example.2/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/courses/example.2/</guid>
+      <guid>https://peng-chen-ai.github.io/site-main/courses/example.2/</guid>
       <description>
 
 &lt;h2 id=&#34;flexibility&#34;&gt;Flexibility&lt;/h2&gt;
@@ -112,10 +112,10 @@
     
     <item>
       <title>Overview</title>
-      <link>https://academia-hugo.netlify.com/courses/example/</link>
+      <link>https://peng-chen-ai.github.io/site-main/courses/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/courses/example/</guid>
+      <guid>https://peng-chen-ai.github.io/site-main/courses/example/</guid>
       <description>
 
 &lt;h2 id=&#34;flexibility&#34;&gt;Flexibility&lt;/h2&gt;

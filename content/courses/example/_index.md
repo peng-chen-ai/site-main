@@ -6,8 +6,8 @@ weight: 1
 
 # Page metadata.
 title: Overview
-date: "2018-09-09T00:00:00Z"
-lastmod: "2018-09-09T00:00:00Z"
+date: "2020-06-28T00:00:00Z"
+lastmod: "2020-06-28T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -17,11 +17,11 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Overview
+    name: Robotics: AI-Techniques
     weight: 1
 ---
 
-## Flexibility
+## Slam - Simultaneous Localization and Mapping
 
 This feature can be used for publishing content such as:
 

@@ -14,11 +14,11 @@ btn:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior Data Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Publicis
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

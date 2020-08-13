@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo on Peng Chen</title>
+    <link>https://peng-chen-ai.github.io/site-main/tags/demo/</link>
+    <description>Recent content in Demo on Peng Chen</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://peng-chen-ai.github.io/site-main/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://peng-chen-ai.github.io/site-main/project/artificial-intelligence/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://peng-chen-ai.github.io/site-main/project/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://peng-chen-ai.github.io/site-main/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://peng-chen-ai.github.io/site-main/project/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>https://peng-chen-ai.github.io/site-main/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://peng-chen-ai.github.io/site-main/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Machine Learning
-summary: Supervised Learning + Unsupervised Learning + Reinforcement Learning
+linktitle: Graduate Algorithm
+summary:  We study techniques for the design of algorithms (such as dynamic programming) and algorithms for fundamental problems (such as fast Fourier transform FFT). In addition, we study computational intractability, specifically, the theory of NP-completeness. The main topics covered in the course include - dynamic programming; divide and conquer, including FFT; randomized algorithms, including RSA cryptosystem and hashing using Bloom filters;  graph algorithms; max-flow algorithms; linear programming; and NP-completeness.
 weight: 1
 
 # Page metadata.
-title: Machine Learning
+title: Graduate Algorithm
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -16,9 +16,9 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  example.1:
-    name: Machine Learning
-    weight: 1
+  example.8:
+    name: Graduate Algorithm
+    weight: 8
 ---
 
 ## 1.Supervised Learning

@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Machine Learning
-summary: Learn how to use Academia's docs layout for publishing online courses, software documentation, and tutorials.
+linktitle: Machine Learning for Trading
+summary: This course introduces students to the real world challenges of implementing machine learning based trading strategies including the algorithmic steps from information gathering to market orders. The focus is on how to apply probabilistic machine learning approaches to trading decisions. We consider statistical approaches like linear regression, Q-Learning, KNN, and regression trees and how to apply them to actual stock trading situations.
 weight: 1
 
 # Page metadata.
-title: Machine Learning
+title: Machine Learning for Trading
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -16,12 +16,12 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  example:
-    name: Machine Learning2
+  example.2:
+    name: Machine Learning for Trading
     weight: 2
 ---
 
-## Flexibility
+## 1.Supervised Learning
 
 This feature can be used for publishing content such as:
 

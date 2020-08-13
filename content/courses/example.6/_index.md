@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Machine Learning
-summary: Supervised Learning + Unsupervised Learning + Reinforcement Learning
+linktitle: Computer Vision
+summary: This course provides an introduction to computer vision including - fundamentals of image formation; camera imaging geometry; feature detection and matching; multiview geometry including stereo, motion estimation and tracking; and classification. We’ll develop basic methods for applications that include finding known models in images, depth recovery from stereo, camera calibration, image stabilization, automated alignment (e.g. panoramas), tracking, and action recognition.
 weight: 1
 
 # Page metadata.
-title: Machine Learning
+title: Computer Vision
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -16,9 +16,9 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  example.1:
-    name: Machine Learning
-    weight: 1
+  example.6:
+    name: Computer Vision
+    weight: 6
 ---
 
 ## 1.Supervised Learning

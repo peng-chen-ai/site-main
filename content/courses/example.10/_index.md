@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Machine Learning
-summary: Supervised Learning + Unsupervised Learning + Reinforcement Learning
+linktitle: Deep Learning
+summary: In this course, students will learn the fundamental principles, underlying mathematics, and implementation details of deep learning. This includes the concepts and methods used to optimize these highly parameterized models (gradient descent and backpropagation, and more generally computation graphs), the modules that make them up (linear, convolution, and pooling layers, activation functions, etc.), and common neural network architectures (convolutional neural networks, recurrent neural networks, etc.). Applications ranging from computer vision to natural language processing, and decision-making (reinforcement learning) will be demonstrated. Through in-depth programming assignments, students will learn how to implement these fundamental building blocks as well as how to put them together using a popular deep learning library, PyTorch.
 weight: 1
 
 # Page metadata.
-title: Machine Learning
+title: Deep Learning
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -16,9 +16,9 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  example.1:
-    name: Machine Learning
-    weight: 1
+  example.10:
+    name: Deep Learning
+    weight: 10
 ---
 
 ## 1.Supervised Learning

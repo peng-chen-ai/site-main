@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Machine Learning
-summary: Supervised Learning + Unsupervised Learning + Reinforcement Learning
+linktitle: Knowledge Based AT
+summary: The learning goals of the Knowledge-Based AI course are to develop an understanding of (1) the basic architectures, representations and techniques for building knowledge-based AI agents, and (2) issues and methods of knowledge-based AI. The main learning strategies are learning-by-example and learning-by-doing. Thus, the course puts a strong emphasis on homework assignments and programming projects. The course will cover three kinds of topics - core topics such as knowledge representation, planning, constraint satisfaction, case-based reasoning, knowledge revision, incremental concept learning, and explanation-based learning; common tasks such as classification, diagnosis, and design; and advanced topics such as analogical reasoning, visual reasoning, and meta-reasoning.
 weight: 1
 
 # Page metadata.
-title: Machine Learning
+title: Knowledge Based AT
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -16,9 +16,9 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  example.1:
-    name: Machine Learning
-    weight: 1
+  example.9:
+    name: Knowledge Based AT
+    weight: 9
 ---
 
 ## 1.Supervised Learning

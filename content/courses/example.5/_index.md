@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Machine Learning
-summary: Supervised Learning + Unsupervised Learning + Reinforcement Learning
+linktitle: Reinforcement Learning
+summary: Markov decision processes, stochastic and repeated games, partially observable Markov decision processes, and reinforcement learning. Through a combination of classic papers and more recent work, the course explores automated decision making from a computational perspective. It examines efficient algorithms, where they exist, for single-agent and multi-agent planning as well as approaches to learning near-optimal decisions from experience. Of particular interest will be issues of generalization, exploration, and representation. Students will replicate a result in a published paper in the area.
 weight: 1
 
 # Page metadata.
-title: Machine Learning
+title: Reinforcement Learning
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -16,9 +16,9 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  example.1:
-    name: Machine Learning
-    weight: 1
+  example.5:
+    name: Reinforcement Learning
+    weight: 5
 ---
 
 ## 1.Supervised Learning

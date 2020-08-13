@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Machine Learning
-summary: Supervised Learning + Unsupervised Learning + Reinforcement Learning
+linktitle: Robotic - AI Technique
+summary: This class will teach students basic methods in Artificial Intelligence, including probabilistic inference, planning and search, localization, tracking, mapping and control, all with a focus on robotics. Extensive programming examples and assignments will apply these methods in the context of building self-driving cars and autonomous vehicles.  
 weight: 1
 
 # Page metadata.
-title: Machine Learning
+title: Robotic - AI Technique
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -16,9 +16,9 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  example.1:
-    name: Machine Learning
-    weight: 1
+  example.3:
+    name: Robotic - AI Technique
+    weight: 3
 ---
 
 ## 1.Supervised Learning

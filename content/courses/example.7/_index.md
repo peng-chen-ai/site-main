@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Machine Learning
-summary: Supervised Learning + Unsupervised Learning + Reinforcement Learning
+linktitle: Software Delvelopment
+summary: Develop Android App.This course provides an in-depth study of the process of developing software systems, including- the use of software processes in actual product development; techniques used to ensure quality of the software products; and maintenance tasks performed as software evolves. By the end of the course, students will understand the role of software processes in the development of software and will have experienced several types of processes, from rigid to agile. Students will also become familiar with a variety of modern technologies and development techniques and understand their connection to software processes.
 weight: 1
 
 # Page metadata.
-title: Machine Learning
+title: Software Delvelopment
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -16,9 +16,9 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  example.1:
-    name: Machine Learning
-    weight: 1
+  example.7:
+    name: Software Delvelopment
+    weight: 7
 ---
 
 ## 1.Supervised Learning

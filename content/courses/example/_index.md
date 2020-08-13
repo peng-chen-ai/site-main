@@ -5,7 +5,7 @@ summary: Learn how to use Academia's docs layout for publishing online courses, 
 weight: 1
 
 # Page metadata.
-title: Overview
+title: Machine Learning
 date: "2020-06-28T00:00:00Z"
 lastmod: "2020-06-28T00:00:00Z"
 draft: false  # Is this a draft? true/false
